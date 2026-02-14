@@ -1,0 +1,20 @@
+html {font-size:62.5%}
+body {font-family:"Oswald", sans-serif;
+      font-weight:200;}
+h1,h2,h3 {font-weight:400}
+h4 {font-style:italic;
+    font-weight:200;}
+
+p,li {font-weight:400;
+      }    
+
+p.objective {background-color:rgb(216 210, 225)}
+
+.objective { color:greenyellow}
+
+h1 {
+     text-transform: uppercase;
+     text-align:center;
+     letter-spacing: 0.01rem;}
+
+li {line-height:1.5rem}    
