@@ -1,0 +1,123 @@
+html {font-size: 62.5%;}
+@font-face {font-family: Faculty;
+    src: url(fonts/Faculty.ttf);}
+
+@font-face {font-family: Oswald;
+    src: url(fonts/Oswald.ttf);}
+
+h1 {font-family: "Faculty Glyphic", sans-serif;
+    letter-spacing: 0.15rem;
+    text-align: center;
+    font-size: 3em;
+    margin-top: 3.5%;
+    margin-bottom: 0.5%;
+    color: rgb(52, 106, 215);}
+
+h2 {font-family: "Faculty Glyphic", sans-serif;
+    font-size: 1.7em;
+    color: rgb(52, 106, 215);
+    margin-top: 3%;}
+
+h3 {font-family: "Faculty Glyphic", sans-serif;
+    font-weight:550;
+    font-size: 1.5em;
+    margin-top: -1%;}
+
+h4 {font-family: "Oswald", sans-serif;
+    font-style: italic;
+    font-weight: 540; 
+    font-size: 1.2em;
+    margin-top: 2%;}
+
+p {font-family: "Oswald", sans-serif;
+    font-size: 1.3em;}
+.Font {font-size: 1.2em;}
+ul {font-family: "Oswald", sans-serif;
+    font-size: 1.2em;}
+
+
+.contact-info {display: flex;
+               gap: 80px;
+               justify-content: center;
+               flex-wrap: nowrap;}
+
+body {background-color: rgb(240, 234, 234);
+      margin: 3%;}
+
+#Item {background-color: rgb(191, 224, 246);
+       width: 100%;
+    margin-top: 1.5%;}
+
+#Container {background-color: rgb(202, 234, 239);
+            width:60%; 
+            margin: 0 auto;
+            border-style: solid;
+            border-color: transparent;
+            box-shadow: 5;}
+
+#Container2 {background-color: rgb(205, 232, 255);
+            width:85%; 
+            margin: 0 auto;
+            border-style: solid;
+            border-color: transparent;}
+
+#Iteam2 {margin-top: -3%;}
+      
+.Title {margin-top:-1.5%;
+         display: inline-block;
+         vertical-align: top;
+         width: 50%;}
+
+.Academic-year {margin-top:-1.5%;
+                display: inline-block;
+                vertical-align: top;
+                text-align: right;
+                width: 49%;}
+
+.Description {margin-top: -1%;
+              margin-bottom: 2%;
+              text-align: justify;}
+
+.Position {margin-top:-1.5%;
+         display: inline-block;
+         vertical-align: top;
+         width: 50%;}
+
+.Years-worked {margin-top:-1.5%;
+                display: inline-block;
+                vertical-align: top;
+                text-align: right;
+                width: 49%;}
+
+.Work-description {margin-top: -1%;
+              margin-bottom: 2%;
+              text-align: justify;}
+
+
+.Project {margin-top:-0.2%;
+          
+         display: inline-block;
+         vertical-align: top;
+         width: 50%;}
+
+.Date {margin-top:-1.5%;
+                display: inline-block;
+                vertical-align: top;
+                text-align: right;
+                width: 49%;}
+
+.Project-description {margin-top: -1%;
+              margin-bottom: 2%;
+              text-align: justify;}
+
+a:link {text-decoration: none; 
+        color: #790e8e}
+a:visited {text-decoration: none; 
+        color: #2a1d80;}
+a:hover {text-decoration: none; 
+        color: #bd8412;}
+a:active {text-decoration: none; 
+        color:#640d0d}
+
+
+
